@@ -57,5 +57,5 @@ spec:                     # Desired state specification
             path: /
             port: http
           initialDelaySeconds: 5  # Check after 5 seconds
-          periodSeconds: 5        # Check every 5 seconds
+          periodSeconds: 5        # Check every 5 seconds sdfsdaf 
 ---
